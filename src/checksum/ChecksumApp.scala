@@ -1,3 +1,5 @@
+package checksum
+
 import ChecksumAccumulator.calculate
 
 object ChecksumApp extends App {
